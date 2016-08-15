@@ -2,6 +2,15 @@
 README generated with readmemako.py (github.com/russianidiot/readme-mako.py) and .README dotfiles (github.com/russianidiot-dotfiles/.README)
 -->
 
+## About this fork ##
+
+I don't know what this is, but the original one doesn't work on
+python 3.5.2 and breaks one of my package dependence.
+
+This fork can run and only tested on python 3.5.2
+
+---------
+
 ![python](https://img.shields.io/badge/language-python-blue.svg)
 [![PyPI](https://img.shields.io/pypi/pyversions/setupfiles.svg)](https://pypi.python.org/pypi/setupfiles)[![PyPI](https://img.shields.io/pypi/v/setupfiles.svg)](https://pypi.python.org/pypi/setupfiles)
 

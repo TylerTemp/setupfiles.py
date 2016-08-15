@@ -10,7 +10,7 @@ if "setup.py" not in str(getattr(sys.modules["__main__"],"__file__",None)):
 
 if os.getcwd() in sys.path:
     sys.path.remove(os.getcwd())
-sys.path.append(os.path.join(os.getcwd(),"packages"))
+sys.path.insert(0, os.path.join(os.getcwd(),"packages"))
 
 del sys.modules["setupfiles"]
 
