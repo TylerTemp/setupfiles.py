@@ -9,6 +9,12 @@ python 3.5.2 and breaks one of my package dependence.
 
 This fork can run and only tested on python 3.5.2
 
+Install:
+
+```bash
+pip install git+https://github.com/TylerTemp/setupfiles.py.git
+```
+
 ---------
 
 ![python](https://img.shields.io/badge/language-python-blue.svg)
